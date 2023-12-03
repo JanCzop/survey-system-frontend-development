@@ -1,0 +1,32 @@
+{
+  "name": "Dźwig",
+  "start_date": "2018-01-01",
+  "end_date": "2018-01-02",
+  "questions": [
+    {
+      "type": 1,
+      "order": 1,
+      "text": "Jakie jest Twoje imię?",
+      "details": "Imię",
+      "placeholder": "Jan Naprzykład",
+      "required": true
+    },
+    {
+      "type": 2,
+      "order": 2,
+      "text": "Jakie jest Twoje imię?",
+      "details": "Imię",
+      "required": false,
+      "options": [
+        {
+          "order": 1,
+          "text": "jan"
+        },
+        {
+          "order": 2,
+          "text": "zbyszek,"
+        }
+      ]
+    }
+  ]
+}

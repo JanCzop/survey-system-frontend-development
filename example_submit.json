@@ -1,0 +1,29 @@
+{
+  "id": 1,
+  "answers": [
+    {
+      "order": 1,
+      "answer": 1
+    },
+    {
+      "order": 2,
+      "answer": 4.2137
+    },
+    {
+      "order": 3,
+      "answer": "Hello World"
+    },
+    {
+      "order": 4,
+      "answer": true
+    },
+    {
+      "order": 5,
+      "answer": [1, 2, 3]
+    },
+    {
+      "order": 6,
+      "answer": 2
+    }
+  ]
+}
